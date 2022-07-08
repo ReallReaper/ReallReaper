@@ -1,9 +1,28 @@
-<div align="center">
-	<h1>⚡🇦🇷 Hi! I'm <a href="https://github.com/ReallReaper">Parca4u</a> 🇦🇷⚡</h1>
-	<div>The human mind is not capable of conceiving the fourth dimension, so how can it conceive of God? For whom a thousand years and a thousand dimensions are only one. -Albert Einstein</div>
-	<br />
-</div>
+<h1 align="center">Hi 👋, I'm Real Reaper</h1>
+<h3 align="center">The human mind is not capable of conceiving the fourth dimension, so how can it conceive of God? For whom a thousand years and a thousand dimensions are only one. -Albert Einstein</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReallReaper&theme=buefy&show_icons=true) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReallReaper&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reallreaper" alt="reallreaper" /></a> </p>
 
+- 🔭 I’m currently working on [Cheats for games](https://discord.io/Spoofer4u?)
+
+- 🌱 I’m currently learning **C++, C#, Reverse Engineering**
+
+- 👯 I’m looking to collaborate on **nothing**
+
+- 📝 I regularly write articles on [Cracking and Offsets](Cracking and Offsets)
+
+- 💬 Ask me about **IDA, Dnspay, C++ or C#**
+
+- 📫 How to reach me **Hamsterious#0001**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://discord.gg/https://discord.io/Spoofer4u?" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.io/Spoofer4u?" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=reallreaper&show_icons=true&theme=radical&locale=en&layout=compact" alt="reallreaper" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reallreaper&show_icons=true&theme=dark&locale=en" alt="reallreaper" /></p>
