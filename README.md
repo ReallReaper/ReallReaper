@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reallreaper" alt="reallreaper" /></a> </p>
 
-- 🚬 Smooking weed 
 
 - 🔭 I’m currently working on [Cheats for games](https://discord.io/Spoofer4u?)
 
@@ -19,7 +18,7 @@
 
 - 📫 How to reach me **Hamsterious#0001**
 
-- 🚬 **Smooking weed**
+- 🚬 **Smoking weed**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
