@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **Hamsterious#0001**
 
-- - 🚬 **Smooking weed**
+- 🚬 **Smooking weed**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
