@@ -1,4 +1,4 @@
-<h1 align="center">Hi 🚬, I'm Real Reaper</h1>
+<h1 align="center">Hi 👋, I'm Real Reaper</h1>
 <h3 align="center">The human mind is not capable of conceiving the fourth dimension, so how can it conceive of God? For whom a thousand years and a thousand dimensions are only one. -Albert Einstein</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reallreaper&label=Profile%20views&color=0e75b6&style=flat" alt="reallreaper" /> </p>
@@ -18,6 +18,8 @@
 - 💬 Ask me about **IDA, Dnspay, C++ or C#**
 
 - 📫 How to reach me **Hamsterious#0001**
+
+- - 🚬 **Smooking weed**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
