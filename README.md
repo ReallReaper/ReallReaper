@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reallreaper" alt="reallreaper" /></a> </p>
 
-
 - 🔭 I’m currently working on [Cheats for games](https://discord.io/Spoofer4u?)
 
 - 🌱 I’m currently learning **C++, C#, Reverse Engineering**
@@ -17,9 +16,6 @@
 - 💬 Ask me about **IDA, Dnspay, C++ or C#**
 
 - 📫 How to reach me **Hamsterious#0001**
-
-- 🚬 **Smoking weed**
-</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -34,4 +30,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reallreaper&theme=dark" alt="reallreaper" /></p>
 
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ReallReaper&langs_count=5&theme=tokyonight)]()
+
+https://github.com/ReallReaper/ReallReaper/blob/main/README.md
+
