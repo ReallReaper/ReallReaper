@@ -34,3 +34,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=reallreaper&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="reallreaper" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reallreaper&show_icons=true&theme=tokyonight&locale=en" alt="reallreaper" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reallreaper&theme=highcontrast" alt="reallreaper" /></p>
