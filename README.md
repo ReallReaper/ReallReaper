@@ -29,7 +29,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" alt="firefox" width="40" height="40"/>
-<img align="left" alt="reallreaper" src="https://cdn.discordapp.com/attachments/1014192874436432045/1014547405443707010/5.gif">
+<img align="right" alt="reallreaper" src="https://cdn.discordapp.com/attachments/1014192874436432045/1014547405443707010/5.gif">
 </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=reallreaper&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="reallreaper" /></p>
 
