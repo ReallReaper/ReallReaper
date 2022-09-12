@@ -32,3 +32,4 @@
 <img align="left" alt="reallreaper" src="https://cdn.discordapp.com/attachments/1014192874436432045/1014547405443707010/5.gif">
 </p>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=reallreaper&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="reallreaper" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reallreaper&show_icons=true&locale=en" alt="reallreaper" /></p>
