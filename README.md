@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reallreaper&label=Profile%20views&color=0e75b6&style=flat" alt="reallreaper" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reallreaper" alt="reallreaper" /></a> </p>
 
-- 🔭 I’m currently working on [Cheats for games](https://discord.io/Spoofer4u?)
+- 🔭 I’m currently working on [Reverse Engineering]([https://discord.io/Spoofer4u?](https://discord.gg/dvY5VVUJhk))
 
 - 🌱 I’m currently learning **C++, C#, Reverse Engineering**
 
