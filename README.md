@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **IDA, Dnspay, C++ or C#**
 
-- 📫 How to reach me **Hamsterious#0001 or Hamsterious#9963**
+- 📫 How to reach me **Hamsterious 4u#0001 or Hamsterious 4u#0930**
 </div>
 <h3 align="left">If you need contact me:</h3>
 <p align="left">
