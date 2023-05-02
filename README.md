@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reallreaper&label=Profile%20views&color=0e75b6&style=flat" alt="reallreaper" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reallreaper" alt="reallreaper" /></a> </p>
 
-- 🔭 I’m currently working on [Reverse Engineering]https://discord.gg/RsMMu55dER
+- 🔭 I’m currently working on [Reverse Engineering]
 
 - 🌱 I’m currently learning **C++, C#, Reverse Engineering**
 
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **IDA, Dnspay, C++ or C#**
 
-- 📫 How to reach me **Hamsterious#0001 or Hamsterious#8032**
+- 📫 How to reach me **Hamsterious#0001 or Hamsterious#8032 or join to my discord server: https://discord.gg/RsMMu55dER**
 </div>
 <h3 align="left">If you need contact me:</h3>
 <p align="left">
