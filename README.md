@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **IDA, Dnspay, C++ or C#**
 
-- 📫 How to reach me **Hamsterious#0001 or Hamsterious#8032 or join to my discord server: https://discord.gg/RsMMu55dER**
+- 📫 How to reach me **Hamsterious#0001 or Hamsterious4u#5118 or join to my discord server: https://discord.gg/RsMMu55dER**
 </div>
 <h3 align="left">If you need contact me:</h3>
 <p align="left">
