@@ -15,7 +15,6 @@
 
 - 📫 How to reach me **Hamsterious#0001 or Hamsterious4u#5118 or join to my discord server: https://discord.gg/RsMMu55dER**
 
-Donations:
 **Monero: 46GrTbi2tQb5g3X6vuzNxqASNDDR7x72V1VsVRcXqAYuL3VUYrm7q1ua33fS6eaZceY6qiSCpF45DPShVpdRXjPyQXmGPXE**
 
 **Bitcoin: bc1qwn790a30545ucmlwhp3t040e48wl5pnsdwzupe**
