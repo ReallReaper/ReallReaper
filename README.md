@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Reverse Engineering]
 
-- 🌱 I’m currently learning **C++, C#, Python, Batch Reverse Engineering**
+- 🌱 I’m currently learning **C++, C#, Python, .Bat Reverse Engineering**
 
 - 👯 I’m looking to collaborate on **Obfuscator and Deobfuscator**
 
@@ -37,6 +37,7 @@ Donations:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" alt="firefox" width="40" height="40"/>
+<img src="https://cdn.discordapp.com/attachments/1138247038736277534/1141067855480246402/bat.png"/>
 <img align="center" alt="reallreaper" src="https://cdn.discordapp.com/attachments/1029064823750807613/1029426952177721435/adef35c3cee097f9d51d34650deca8e2.gif">
 </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=reallreaper&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="reallreaper" /></p>
