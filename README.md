@@ -38,7 +38,7 @@ Donations:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" alt="firefox" width="40" height="40"/>
 <img src="https://cdn.discordapp.com/attachments/1138247038736277534/1141067855480246402/bat.png" width="40" height="40"/>
-<img align="center" alt="reallreaper" src="https://cdn.discordapp.com/attachments/1029064823750807613/1029426952177721435/adef35c3cee097f9d51d34650deca8e2.gif">
+<img align="center" alt="reallreaper" src="https://cdn.discordapp.com/attachments/1138247038736277534/1141069364024594442/la_parca_en_la_pc.gif">
 </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=reallreaper&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="reallreaper" /></p>
 
