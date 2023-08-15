@@ -25,7 +25,7 @@ Donations:
 </div>
 <h3 align="left">If you need contact me:</h3>
 <p align="left">
-<a href="https://discord.gg/TDBBxd2A" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.io/Spoofer4u?" height="30" width="40" /></a>
+<a href="https://discord.gg/ASbPTnkJrm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.io/Spoofer4u?" height="30" width="40" /></a>
 </p>
 </div>
 <h3 align="left">Languages and Tools:</h3>
