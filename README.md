@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Reverse Engineering]
 
-- 🌱 I’m currently learning **C++, C#, Python, .Bat Reverse Engineering**
+- 🌱 I’m currently learning **C++, C#, Ruby, Python, .Bat Reverse Engineering**
 
 - 👯 I’m looking to collaborate on **Obfuscator and Deobfuscator**
 
