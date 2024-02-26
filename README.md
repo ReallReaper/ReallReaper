@@ -3,17 +3,17 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reallreaper&label=Profile%20views&color=0e75b6&style=flat" alt="reallreaper" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reallreaper" alt="reallreaper" /></a> </p>
 
-- 🔭 I’m currently working on [Reverse Engineering]
+- 🔭 I’m currently working on nothing...
 
 - 🌱 I’m currently learning **C++, C#, Ruby, Python, .Bat Reverse Engineering**
 
-- 👯 I’m looking to collaborate on **Obfuscator and Deobfuscator**
+- 👯 I’m looking to collaborate on nothing...
 
-- 📝 I regularly write articles on [Cracking and Offsets](Cracking and Offsets)
+- 📝 I regularly write articles on noting...
 
 - 💬 Ask me about **IDA, Dnspay, C++ or C#**
 
-- 📫 How to reach me **Hamsterious#0001 or Hamsterious4u#5118 or join to my discord server: https://discord.gg/RsMMu55dER**
+- 📫 How to reach me **Hamsterious#0001 or Hamsterious4u#5118**
 
 ## Donations:
 
