@@ -15,16 +15,6 @@
 
 - 📫 How to reach me **Hamsterious#0001 or Hamsterious4u#5118**
 
-## Donations:
-
-**Monero: 46GrTbi2tQb5g3X6vuzNxqASNDDR7x72V1VsVRcXqAYuL3VUYrm7q1ua33fS6eaZceY6qiSCpF45DPShVpdRXjPyQXmGPXE**
-
-**Bitcoin: bc1qwn790a30545ucmlwhp3t040e48wl5pnsdwzupe**
-
-**Ethereum: 0xd041b6C1B422C2b349d97D2b6d1531Dc21339Fe4**
-
-**Litecoin: LVKB8GcNqZa8zEAAcz5Yn9WTAEHeFdobp5**
-
 </div>
 <h3 align="left">If you need contact me:</h3>
 <p align="left">
